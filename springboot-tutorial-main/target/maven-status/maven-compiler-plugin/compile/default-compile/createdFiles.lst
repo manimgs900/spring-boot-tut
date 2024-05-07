@@ -1,0 +1,12 @@
+com/saggu/eshop/JSSHealthIndicator.class
+com/saggu/eshop/controller/OrdersController.class
+com/saggu/eshop/controller/ProductController.class
+META-INF/spring-configuration-metadata.json
+com/saggu/eshop/dao/OrderDao.class
+com/saggu/eshop/hashing/ConsistentHash.class
+com/saggu/eshop/dao/ProductDao.class
+com/saggu/eshop/dto/ProductDto.class
+com/saggu/eshop/configuration/EshopProperties.class
+com/saggu/eshop/controller/FlywayController.class
+com/saggu/eshop/SpringBootTutorialApplication.class
+com/saggu/eshop/controller/SystemInfoPrinter.class

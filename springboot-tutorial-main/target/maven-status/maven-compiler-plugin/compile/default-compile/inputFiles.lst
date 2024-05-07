@@ -1,0 +1,11 @@
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/dto/ProductDto.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/controller/ProductController.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/SpringBootTutorialApplication.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/hashing/ConsistentHash.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/controller/OrdersController.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/configuration/EshopProperties.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/dao/OrderDao.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/dao/ProductDao.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/controller/SystemInfoPrinter.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/controller/FlywayController.java
+/Users/mangupta/projects/springboot-tutorial-main/src/main/java/com/saggu/eshop/JSSHealthIndicator.java

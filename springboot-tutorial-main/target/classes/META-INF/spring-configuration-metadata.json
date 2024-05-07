@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "jss",
+      "type": "com.saggu.eshop.configuration.EshopProperties",
+      "sourceType": "com.saggu.eshop.configuration.EshopProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jss.name",
+      "type": "java.lang.String",
+      "description": "Name on the order.",
+      "sourceType": "com.saggu.eshop.configuration.EshopProperties"
+    }
+  ],
+  "hints": []
+}
